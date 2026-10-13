@@ -13,7 +13,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "CV Aska Mandiri - Spesialis Fabrikasi & Pemasangan Aluminium & Kaca Arsitektural",
+  title: "CV Azka Mandiri - Spesialis Fabrikasi & Pemasangan Aluminium & Kaca Arsitektural",
   description:
     "Kontraktor spesialis fabrikasi aluminium arsitektural, kaca tempered/laminated, curtain wall gedung komersial, partisi kantor, serta kusen pintu dan jendela presisi tinggi di Indonesia.",
   keywords: [
@@ -26,14 +26,14 @@ export const metadata: Metadata = {
     "kusen alexindo",
     "partisi kantor frameless",
     "kanopi kaca spider",
-    "cv aska mandiri",
+    "cv azka mandiri",
   ],
-  authors: [{ name: "CV Aska Mandiri" }],
+  authors: [{ name: "CV Azka Mandiri" }],
   openGraph: {
-    title: "CV Aska Mandiri - Spesialis Fabrikasi & Pemasangan Aluminium & Kaca",
+    title: "CV Azka Mandiri - Spesialis Fabrikasi & Pemasangan Aluminium & Kaca",
     description:
       "Standar fabrikasi presisi tinggi dengan toleransi potongan milimeter, material bersertifikat SNI & ASTM untuk proyek komersial dan residensial.",
-    siteName: "CV Aska Mandiri",
+    siteName: "CV Azka Mandiri",
     locale: "id_ID",
     type: "website",
   },
@@ -45,7 +45,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="id" className={`${plusJakarta.variable} scroll-smooth`}>
+    <html lang="id" className={`${plusJakarta.variable} scroll-smooth`} data-scroll-behavior="smooth">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />

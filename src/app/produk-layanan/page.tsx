@@ -281,7 +281,7 @@ export default function ProdukLayananPage() {
           <div className="flex items-center gap-2 text-xs text-[#45464d]">
             <Filter className="w-4 h-4 text-[#505f76]" />
             <span>
-              Menampilkan {filteredProducts.length} unit sistem rekayasa arsitektural CV Aska Mandiri
+              Menampilkan {filteredProducts.length} unit sistem rekayasa arsitektural CV Azka Mandiri
             </span>
           </div>
           <div className="flex items-center gap-3 w-full md:w-auto justify-end">
@@ -678,7 +678,7 @@ export default function ProdukLayananPage() {
                 Hitung RAB dengan Spek Ini
               </Link>
               <a
-                href={`https://wa.me/6281932735383?text=Halo%20CV%20Aska%20Mandiri,%20saya%20tertarik%20dengan%20produk%20${encodeURIComponent(
+                href={`https://wa.me/6281932735383?text=Halo%20CV%20Azka%20Mandiri,%20saya%20tertarik%20dengan%20produk%20${encodeURIComponent(
                   activeModalProduct.title
                 )}%20(${activeModalProduct.ref})`}
                 target="_blank"

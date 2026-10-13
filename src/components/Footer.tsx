@@ -32,7 +32,7 @@ export default function Footer() {
               </div>
               <div className="flex flex-col">
                 <span className="font-extrabold text-xl tracking-tight text-[#191c1e]">
-                  CV ASKA MANDIRI
+                  CV AZKA MANDIRI
                 </span>
                 <span className="text-[10px] font-bold tracking-widest text-[#505f76] uppercase">
                   Aluminium & Architectural Glazing
@@ -109,10 +109,10 @@ export default function Footer() {
 
             <div className="mt-2 flex flex-col gap-2">
               <a
-                href="/katalog-profil-aska-mandiri.pdf"
+                href="/katalog-profil-azka-mandiri.pdf"
                 onClick={(e) => {
                   e.preventDefault();
-                  alert("Katalog CV Aska Mandiri PDF sedang disiapkan untuk pengunduhan.");
+                  alert("Katalog CV Azka Mandiri PDF sedang disiapkan untuk pengunduhan.");
                 }}
                 className="inline-flex items-center gap-2 px-3.5 py-2 rounded-lg bg-[#e6e8ea] text-[#191c1e] hover:bg-[#e0e3e5] transition-colors text-xs font-semibold cursor-pointer"
               >
@@ -120,7 +120,7 @@ export default function Footer() {
                 <span>Unduh Profil Perusahaan & Katalog PDF</span>
               </a>
               <a
-                href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Aska%20Mandiri,%20saya%20ingin%20konsultasi%20proyek`}
+                href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Azka%20Mandiri,%20saya%20ingin%20konsultasi%20proyek`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-3.5 py-2 rounded-lg bg-[#25D366] hover:bg-[#20ba59] text-white transition-colors text-xs font-bold"
@@ -136,7 +136,7 @@ export default function Footer() {
             <h4 className="font-bold text-sm sm:text-base text-[#191c1e] mb-1">Lokasi Google Maps</h4>
             <div className="w-full h-44 rounded-xl bg-[#e0e3e5] relative overflow-hidden flex flex-col justify-end p-2.5 shadow-inner border border-[#c6c6cd]/50">
               <iframe
-                title="Google Maps Lokasi CV Aska Mandiri"
+                title="Google Maps Lokasi CV Azka Mandiri"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15865.044199676839!2d106.6853!3d-6.2422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fa0332851167%3A0xc03f1eaecbf0a394!2sPaku%20Jaya%2C%20Serpong%20Utara%2C%20South%20Tangerang%20City%2C%20Banten!5e0!3m2!1sen!2sid!4v1710000000000!5m2!1sen!2sid"
                 className="absolute inset-0 w-full h-full border-0 opacity-80 hover:opacity-100 transition-opacity"
                 allowFullScreen={false}
@@ -161,7 +161,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-6 border-t border-[#e0e3e5] flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[#45464d]">
-          <p>© 2025 CV Aska Mandiri. All rights reserved. Precision Architectural Engineering.</p>
+          <p>© 2025 CV Azka Mandiri. All rights reserved. Precision Architectural Engineering.</p>
           <div className="flex items-center gap-4 text-xs font-medium text-[#505f76]">
             <span>SNI Glazing Safety Certified</span>
             <span>•</span>

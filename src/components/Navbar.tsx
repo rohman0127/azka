@@ -104,7 +104,7 @@ export default function Navbar() {
           <div className="flex flex-col">
             <div className="flex items-center gap-2">
               <span className="font-extrabold text-lg sm:text-xl tracking-tight text-slate-900 leading-tight">
-                CV ASKA MANDIRI
+                CV AZKA MANDIRI
               </span>
               <span className="hidden sm:inline-block px-1.5 py-0.2 text-[9px] font-bold uppercase rounded bg-slate-100 text-slate-700 border border-slate-300">
                 Resmi
@@ -152,7 +152,7 @@ export default function Navbar() {
 
           {/* Direct WhatsApp Action Button */}
           <a
-            href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Aska%20Mandiri,%20saya%20ingin%20konsultasi%20proyek%20aluminium%20dan%20kaca`}
+            href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Azka%20Mandiri,%20saya%20ingin%20konsultasi%20proyek%20aluminium%20dan%20kaca`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 px-3.5 py-2.5 rounded-lg bg-[#25D366] hover:bg-[#20ba59] text-white text-xs font-bold tracking-wide shadow-sm transition-all whitespace-nowrap"
@@ -209,7 +209,7 @@ export default function Navbar() {
             </Link>
 
             <a
-              href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Aska%20Mandiri,%20saya%20ingin%20konsultasi%20proyek`}
+              href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Azka%20Mandiri,%20saya%20ingin%20konsultasi%20proyek`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-2.5 px-4 rounded-lg bg-[#25D366] text-white text-xs font-bold tracking-wider flex items-center justify-center gap-2"

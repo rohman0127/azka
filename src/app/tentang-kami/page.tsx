@@ -15,9 +15,9 @@ import {
 } from "lucide-react";
 
 export const metadata = {
-  title: "Tentang Kami - CV Aska Mandiri | Spesialis Fabrikasi Aluminium & Kaca",
+  title: "Tentang Kami - CV Azka Mandiri | Spesialis Fabrikasi Aluminium & Kaca",
   description:
-    "Mengenal CV Aska Mandiri: Kontraktor fabrikasi aluminium arsitektural dan kaca struktural terkemuka di Indonesia dengan filosofi presisi industri dan komitmen mutu.",
+    "Mengenal CV Azka Mandiri: Kontraktor fabrikasi aluminium arsitektural dan kaca struktural terkemuka di Indonesia dengan filosofi presisi industri dan komitmen mutu.",
 };
 
 export default function TentangKamiPage() {
@@ -36,7 +36,7 @@ export default function TentangKamiPage() {
               Dedikasi Pada Presisi Fabrikasi & Ketahanan Struktural
             </h1>
             <p className="text-sm sm:text-base text-[#bec6e0] leading-relaxed">
-              CV Aska Mandiri adalah produsen dan kontraktor spesialis aluminium arsitektural, kaca fasad (*curtain wall*), jendela, dan pintu premium di Indonesia yang berakar pada ketelitian rekayasa teknik (*precision engineering*).
+              CV Azka Mandiri adalah produsen dan kontraktor spesialis aluminium arsitektural, kaca fasad (*curtain wall*), jendela, dan pintu premium di Indonesia yang berakar pada ketelitian rekayasa teknik (*precision engineering*).
             </p>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default function TentangKamiPage() {
               Filosofi Perusahaan
             </span>
             <h2 className="text-2xl sm:text-3xl font-bold text-[#191c1e] mt-1">
-              Tiga Pilar Mutu CV Aska Mandiri
+              Tiga Pilar Mutu CV Azka Mandiri
             </h2>
             <p className="text-xs sm:text-sm text-[#45464d] mt-2 leading-relaxed">
               Setiap potongan profil ekstrusi aluminium dan panel kaca yang keluar dari workshop kami dirancang untuk melampaui ekspektasi teknis konsultan arsitektur.
@@ -137,7 +137,7 @@ export default function TentangKamiPage() {
                 <div className="space-y-3 text-xs">
                   <div className="flex justify-between py-2 border-b border-[#e0e3e5]">
                     <span className="text-[#505f76]">Nama Perusahaan:</span>
-                    <span className="font-bold text-[#191c1e]">CV ASKA MANDIRI</span>
+                    <span className="font-bold text-[#191c1e]">CV AZKA MANDIRI</span>
                   </div>
                   <div className="flex justify-between py-2 border-b border-[#e0e3e5]">
                     <span className="text-[#505f76]">Nomor Induk Berusaha (NIB):</span>

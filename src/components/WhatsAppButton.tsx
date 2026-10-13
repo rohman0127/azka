@@ -18,7 +18,7 @@ export default function WhatsAppButton() {
                 <MessageCircle className="w-6 h-6" />
               </div>
               <div>
-                <h4 className="font-bold text-sm">Tim Teknis Aska Mandiri</h4>
+                <h4 className="font-bold text-sm">Tim Teknis Azka Mandiri</h4>
                 <p className="text-xs text-[#d3e4fe] flex items-center gap-1">
                   <span className="w-2 h-2 rounded-full bg-[#25D366] inline-block animate-pulse"></span>
                   Online • Respon Cepat
@@ -44,7 +44,7 @@ export default function WhatsAppButton() {
 
             <div className="space-y-1.5">
               <a
-                href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Aska%20Mandiri,%20saya%20ingin%20minta%20estimasi%20RAB%20proyek`}
+                href={`https://wa.me/${phoneRaw}?text=Halo%20CV%20Azka%20Mandiri,%20saya%20ingin%20minta%20estimasi%20RAB%20proyek`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full block text-center py-2 px-3 rounded-lg bg-[#25D366] hover:bg-[#20ba59] text-white font-bold shadow-sm transition-colors text-xs"

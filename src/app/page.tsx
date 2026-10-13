@@ -376,7 +376,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* KENAPA MEMILIH CV ASKA MANDIRI */}
+      {/* KENAPA MEMILIH CV AZKA MANDIRI */}
       <section className="w-full py-16 lg:py-24 bg-[#f2f4f6] border-y border-[#e0e3e5]">
         <div className="max-w-[1320px] mx-auto px-5 lg:px-10">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
@@ -410,7 +410,7 @@ export default function HomePage() {
                   Standar Kualitas Industri
                 </span>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#191c1e] mt-1">
-                  Keunggulan Fabrikasi Presisi CV Aska Mandiri
+                  Keunggulan Fabrikasi Presisi CV Azka Mandiri
                 </h2>
                 <p className="text-sm sm:text-base text-[#45464d] mt-2">
                   Kami memadukan peralatan workshop modern, teknisi bersertifikat, dan kepatuhan ketat pada spesifikasi teknis demi memastikan kepuasan jangka panjang klien kami.
@@ -593,7 +593,7 @@ export default function HomePage() {
               Standard Operating Procedure
             </span>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#191c1e] mt-1">
-              6 Tahapan Alur Kerja CV Aska Mandiri
+              6 Tahapan Alur Kerja CV Azka Mandiri
             </h2>
             <p className="text-sm sm:text-base text-[#45464d] mt-2">
               Setiap proyek berjalan dengan alur kerja terstruktur untuk memastikan ketepatan dimensi, transparansi biaya, dan hasil akhir tanpa kompromi.
@@ -735,7 +735,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-[#191c1e] italic leading-relaxed mb-6">
-                    "CV Aska Mandiri menyelesaikan pekerjaan curtain wall 6 lantai kantor kami tepat waktu. Sambungan silikon sangat rapi, saat musim hujan deras tidak ada satu pun kebocoran rembes air. Sangat direkomendasikan untuk proyek komersial."
+                    "CV Azka Mandiri menyelesaikan pekerjaan curtain wall 6 lantai kantor kami tepat waktu. Sambungan silikon sangat rapi, saat musim hujan deras tidak ada satu pun kebocoran rembes air. Sangat direkomendasikan untuk proyek komersial."
                   </p>
                 </div>
                 <div className="flex items-center gap-3 pt-3 border-t border-[#e0e3e5]">
@@ -758,7 +758,7 @@ export default function HomePage() {
                     ))}
                   </div>
                   <p className="text-sm text-[#191c1e] italic leading-relaxed mb-6">
-                    "Sebagai arsitek, saya sangat menuntut detail adu manis kusen aluminium yang presisi dan pintu pivot frameless yang mulus. Aska Mandiri mampu mewujudkan gambar teknis kami tanpa deviasi ukuran yang mengganggu."
+                    "Sebagai arsitek, saya sangat menuntut detail adu manis kusen aluminium yang presisi dan pintu pivot frameless yang mulus. Azka Mandiri mampu mewujudkan gambar teknis kami tanpa deviasi ukuran yang mengganggu."
                   </p>
                 </div>
                 <div className="flex items-center gap-3 pt-3 border-t border-[#e0e3e5]">
@@ -790,12 +790,12 @@ export default function HomePage() {
                 Siap Mewujudkan Fasad Impian Bangunan Anda?
               </h2>
               <p className="text-sm sm:text-base text-[#bec6e0] leading-relaxed mt-1">
-                Hubungi tim teknisi CV Aska Mandiri sekarang. Kirimkan gambar denah atau jadwalkan survei pengukuran gratis ke lokasi proyek Anda hari ini.
+                Hubungi tim teknisi CV Azka Mandiri sekarang. Kirimkan gambar denah atau jadwalkan survei pengukuran gratis ke lokasi proyek Anda hari ini.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row items-center gap-4 w-full lg:w-auto">
               <a
-                href="https://wa.me/6281932735383?text=Halo%20CV%20Aska%20Mandiri,%20saya%20ingin%20konsultasi%20proyek%20aluminium%20dan%20kaca"
+                href="https://wa.me/6281932735383?text=Halo%20CV%20Azka%20Mandiri,%20saya%20ingin%20konsultasi%20proyek%20aluminium%20dan%20kaca"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-3.5 rounded-lg bg-[#c76c00] hover:bg-[#b05f00] text-white font-bold text-base shadow-lg transition-all"

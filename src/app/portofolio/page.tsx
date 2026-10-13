@@ -441,7 +441,7 @@ export default function PortofolioPage() {
                   ))}
                 </div>
                 <p className="text-xs sm:text-sm text-[#45464d] italic mb-6 leading-relaxed">
-                  “Fabrikasi profil aluminium dan curtain wall dari CV Aska Mandiri pada proyek perkantoran kami menunjukkan kepatuhan toleransi milimeter yang sangat ketat. Uji semprot air ASTM nihil rembesan sejak tes pertama.”
+                  “Fabrikasi profil aluminium dan curtain wall dari CV Azka Mandiri pada proyek perkantoran kami menunjukkan kepatuhan toleransi milimeter yang sangat ketat. Uji semprot air ASTM nihil rembesan sejak tes pertama.”
                 </p>
               </div>
               <div className="bg-[#f2f4f6] p-3 rounded-xl flex items-center gap-3">
@@ -520,7 +520,7 @@ export default function PortofolioPage() {
                   Peta Sebaran Proyek di Indonesia
                 </h2>
                 <p className="text-xs sm:text-sm text-[#45464d] leading-relaxed">
-                  Dengan basis workshop utama di Jabodetabek, tim teknis dan aplikator CV Aska Mandiri telah menyelesaikan instalasi fasad dan aluminium di berbagai kota strategis nusantara.
+                  Dengan basis workshop utama di Jabodetabek, tim teknis dan aplikator CV Azka Mandiri telah menyelesaikan instalasi fasad dan aluminium di berbagai kota strategis nusantara.
                 </p>
               </div>
 

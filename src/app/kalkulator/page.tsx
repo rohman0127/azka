@@ -170,7 +170,7 @@ export default function KalkulatorPage() {
     const accString = accList.length > 0 ? accList.join(", ") : "Material Saja";
 
     const msg =
-      `Halo Tim CV Aska Mandiri, saya ingin konsultasi estimasi proyek:\n` +
+      `Halo Tim CV Azka Mandiri, saya ingin konsultasi estimasi proyek:\n` +
       `- Kategori Pekerjaan: ${selectedJob.name}\n` +
       `- Brand Aluminium: ${selectedBrand.name}\n` +
       `- Spesifikasi Kaca: ${selectedGlass.name}\n` +
@@ -192,7 +192,7 @@ export default function KalkulatorPage() {
       a: "Untuk wilayah Jabodetabek, tim teknisi kami dapat melakukan survei lokasi dalam 1x24 jam setelah reservasi. Gambar kerja teknis 2D/3D (Shop Drawing) beserta rincian volume Bill of Quantities (BQ) siap dalam 2-3 hari kerja.",
     },
     {
-      q: "Apakah CV Aska Mandiri melayani proyek di luar Jabodetabek?",
+      q: "Apakah CV Azka Mandiri melayani proyek di luar Jabodetabek?",
       a: "Ya, kami melayani proyek komersial dan residensial di seluruh Indonesia (Bandung, Surabaya, Semarang, Bali, Medan, Balikpapan, dll.) dengan sistem pengemasan peti kayu kargo khusus bergaransi bebas pecah.",
     },
     {
@@ -597,7 +597,7 @@ export default function KalkulatorPage() {
                   </div>
                 </div>
                 <a
-                  href="https://wa.me/6281932735383?text=Halo%20CV%20Aska%20Mandiri,%20butuh%20layanan%20darurat%20kebocoran%20kaca%20atau%20pintu%20macet"
+                  href="https://wa.me/6281932735383?text=Halo%20CV%20Azka%20Mandiri,%20butuh%20layanan%20darurat%20kebocoran%20kaca%20atau%20pintu%20macet"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-3 py-1.5 rounded-lg bg-white text-[#191c1e] text-[11px] font-bold hover:bg-[#f2f4f6] transition-colors"
@@ -660,7 +660,7 @@ export default function KalkulatorPage() {
                     </div>
                     <h3 className="text-lg font-bold text-[#191c1e]">Permintaan Berhasil Terkirim!</h3>
                     <p className="text-xs text-[#45464d] max-w-md mx-auto leading-relaxed">
-                      Terima kasih. Permintaan konsultasi & berkas desain Anda telah diteruskan ke Tim Estimator CV Aska Mandiri. Kami akan menghubungi Anda dalam waktu 1x24 jam kerja.
+                      Terima kasih. Permintaan konsultasi & berkas desain Anda telah diteruskan ke Tim Estimator CV Azka Mandiri. Kami akan menghubungi Anda dalam waktu 1x24 jam kerja.
                     </p>
                     <button
                       type="button"
